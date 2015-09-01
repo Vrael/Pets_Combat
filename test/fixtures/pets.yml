@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  age: 
+  gender: 
+  type: 
+  win: 
+  loss: 1
+
+two:
+  name: 
+  age: 
+  gender: 
+  type: 
+  win: 
+  loss: 1
