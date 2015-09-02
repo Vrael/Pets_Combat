@@ -1,17 +1,25 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: 
-  age: 
-  gender: 
-  type: 
-  win: 
-  loss: 1
+kakuna:
+  name: 'kakuna'
+  age: 1
+  gender: 'female' 
+  kind: 'chinchilla'
+  rate: 0.2
+  user: fran
 
-two:
-  name: 
-  age: 
-  gender: 
-  type: 
-  win: 
-  loss: 1
+pikachu:
+  name: 'pikachu'
+  age: 2
+  gender: 'male' 
+  kind: 'rat'
+  rate: 0.7
+  user: fran 
+
+ivisur:
+  name: 'ivisur'
+  age: 1
+  gender: 'male' 
+  kind: 'dog'
+  rate: 0.3
+  user: mark 
