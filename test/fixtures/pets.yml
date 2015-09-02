@@ -23,3 +23,11 @@ ivisur:
   kind: 'dog'
   rate: 0.3
   user: mark 
+
+charmeleon:
+  name: 'ivisur'
+  age: 2
+  gender: 'male' 
+  kind: 'chinchilla'
+  rate: 0.2
+  user: mark 
