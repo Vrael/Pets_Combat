@@ -1,4 +1,4 @@
-== README
+# Combat pets
 
 This is an application where you can manage users and create pets for an epic combat between them.
 
